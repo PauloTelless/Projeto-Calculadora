@@ -1,0 +1,10 @@
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\bin\Debug\calculadoraC#.exe.config
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\bin\Debug\calculadoraC#.exe
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\bin\Debug\calculadoraC#.pdb
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC#.csproj.AssemblyReference.cache
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC_.Form1.resources
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC_.Properties.Resources.resources
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC#.csproj.GenerateResource.cache
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC#.csproj.CoreCompileInputs.cache
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC#.exe
+E:\Curso Essential C#\ProjetoCalculadora\calculadoraC#\obj\Debug\calculadoraC#.pdb
